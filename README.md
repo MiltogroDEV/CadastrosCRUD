@@ -10,9 +10,10 @@ Siga as etapas abaixo para configurar e executar o projeto.
 ### 1. Clonar o Repositório
  
 ```bash
-
 git  clone  https://github.com/MiltogroDEV/CadastrosCRUD.git
+```
 
+```bash
 cd  seu-repositorio
 ```
 
