@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Buscar</title>
+</head>
+<body class="font">
+    <div class="menu">
+        <a href="index.html" class="button">CADASTRAR</a>
+        <a href="dados.html" class="button">DADOS</a>
+        <a href="" class="button ativo">BUSCAR</a>
+        <a href="atualizar.html" class="button">ATUALIZAR</a>
+    </div>
+    <div class="jc">
+        <div class="jcc">
+            <h1>BUSCAR</h1>
+            <form id="searchForm" method="GET" action="/search">
+                <div class="centerDivs">
+                    <div class="esq">
+                        <span>ID/CPF: </span>
+                    </div>
+                    <div class="dir">
+                        <input type="text" id="search" name="search">
+                    </div>
+                </div>
+                <div class="centerDivs">
+                    <button type="submit" class="miniButtonCenter font">Buscar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
