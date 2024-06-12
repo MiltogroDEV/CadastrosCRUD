@@ -7,6 +7,21 @@ Este projeto é uma aplicação web para gerenciar cadastros de usuários. Inclu
 
 Siga as etapas abaixo para configurar e executar o projeto.
 
+### Dowloads necessários
+
+```bash
+npm install --save express@4.16.3
+```
+```bash
+npm install --save body-parser@1.18.2 -E
+```
+```bash
+npm install --save firebase-admin
+```
+```bash
+npm install --save nodemoon
+```
+
 ### 1. Clonar o Repositório
  
 ```bash
