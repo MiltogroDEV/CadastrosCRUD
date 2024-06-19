@@ -14,7 +14,7 @@ git  clone  https://github.com/MiltogroDEV/CadastrosCRUD.git
 ```
 
 ```bash
-cd  seu-repositorio
+cd  CadastrosCRUD
 ```
 
 ### 2. Instalar Dependências
